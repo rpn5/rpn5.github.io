@@ -2,65 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:9000/archives/</loc>
+    <loc>http://rpn5.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9000/</loc>
+    <loc>http://rpn5.github.io/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9000/tags/css/</loc>
+    <loc>http://rpn5.github.io/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9000/tags/html/</loc>
+    <loc>http://rpn5.github.io/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9000/tags/markdown/</loc>
+    <loc>http://rpn5.github.io/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9000/post/markdown-syntax/</loc>
+    <loc>http://rpn5.github.io/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9000/post/</loc>
+    <loc>http://rpn5.github.io/post/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9000/series/</loc>
+    <loc>http://rpn5.github.io/series/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9000/tags/</loc>
+    <loc>http://rpn5.github.io/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9000/series/themes-guide/</loc>
+    <loc>http://rpn5.github.io/series/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9000/tags/privacy/</loc>
+    <loc>http://rpn5.github.io/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9000/post/rich-content/</loc>
+    <loc>http://rpn5.github.io/post/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9000/tags/shortcodes/</loc>
+    <loc>http://rpn5.github.io/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9000/post/placeholder-text/</loc>
+    <loc>http://rpn5.github.io/post/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9000/tags/text/</loc>
+    <loc>http://rpn5.github.io/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9000/post/math-typesetting/</loc>
+    <loc>http://rpn5.github.io/post/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9000/tags/emoji/</loc>
+    <loc>http://rpn5.github.io/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9000/post/emoji-support/</loc>
+    <loc>http://rpn5.github.io/post/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9000/about/</loc>
+    <loc>http://rpn5.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9000/foo/</loc>
+    <loc>http://rpn5.github.io/foo/</loc>
   </url><url>
-    <loc>http://localhost:9000/tags/index/</loc>
+    <loc>http://rpn5.github.io/tags/index/</loc>
   </url>
 </urlset>
